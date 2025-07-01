@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Saumya Pratap Singh  
 
-🎓 **Final Year B.Tech AI & Data Science** | **IIT Patna**  
-💻 **Fullstack Developer | Competitive Programmer**  
+🎓 **Final Year B.Tech Aritificial Intelligence & Data Science** | **IIT Patna**  
+💻 **Fullstack Developer | Data Science Enthusiast | Competitive Programmer**   
 
 ## 🚀 About Me  
 - 🔹 **Codeforces Specialist** (Max Rating: **1422**)  
 - 🔹 **CodeChef 3★ Coder** (Max Rating: **1732**)  
 - 🔹 Built **Twitube**: Subscription-based video-sharing platform (**MERN Stack, Cloudinary**)  
-- 🔹 Built **Snappy**: Real-time chat app with AI-powered chatbot (**MERN Stack, Socket.io, Cohere API**)  
-- 🔹 Looking forward to **collaborating on MERN projects**  
+- 🔹 Built **Snappy**: Real-time chat app with AI-powered chatbot (**MERN Stack, Socket.io, Cohere API**)
+- 🔹 Built **Personalized Cancer Diagnosis**: ML-based genomic classifier using structured + clinical text data (**Scikit-learn, NLTK, Imbalanced-Learn**)  
+- 🔹 Looking forward to **collaborating on MERN & Data Science projects**  
 
 ## 📫 Connect with Me  
 - ✉️ **Email:** [spsingh101203@gmail.com](mailto:spsingh101203@gmail.com)  
