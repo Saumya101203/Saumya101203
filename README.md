@@ -9,7 +9,7 @@
 - 🔹 Built **Twitube**: Subscription-based video-sharing platform (**MERN Stack, Cloudinary**)  
 - 🔹 Built **Snappy**: Real-time chat app with AI-powered chatbot (**MERN Stack, Socket.io, Cohere API**)
 - 🔹 Built **Personalized Cancer Diagnosis**: ML-based genomic classifier using structured + clinical text data (**Scikit-learn, NLTK, Imbalanced-Learn**)
-- 🔹 Built Apparel Recommendation Engine: Content-based system using product metadata + images (TF-IDF, Word2Vec, VGG16, Scikit-learn, TensorFlow) to suggest visually and textually similar items on e-commerce platforms.
+- 🔹 Built **Apparel Recommendation Engine**: Content-based system using product metadata + images (TF-IDF, Word2Vec, VGG16, Scikit-learn, TensorFlow) to suggest visually and textually similar items on e-commerce platforms.
 - 🔹 Looking forward to **collaborating on MERN & Data Science projects**  
 
 ## 📫 Connect with Me  
