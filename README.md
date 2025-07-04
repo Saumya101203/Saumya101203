@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saumya Pratap Singh  
 
-🎓 **Final Year B.Tech Aritificial Intelligence & Data Science** | **IIT Patna**  
+🎓 **Final Year B.Tech Aritificial Intelligence & Data Science** | **IIT Patna '26**  
 💻 **Fullstack Developer | Data Science Enthusiast | Competitive Programmer**   
 
 ## 🚀 About Me  
